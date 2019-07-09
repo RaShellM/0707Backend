@@ -1,0 +1,183 @@
+[
+    {
+   "title": "Smothie Fraisy",
+    "ingredients": [
+        {
+            "nom":"Smoothie à la Fraise",
+            "quantité":"75g",
+        },
+        {
+            "nom":"Eau",
+            "quantité":"20ml",
+        }
+    ],
+    "features":{
+        "cost":"3",
+        "prepareTime":"5mn",
+    },
+    "advice":"utilisez des fraises mûres. Ajoutez 2 ou 3 feuilles de menthe pour le côté frais",
+    "description":"Super smoothie rafraichissant, prêts en quelques minutes",
+    "steps":[
+        {
+            "stepText":"Lavez les fraises à l'eau claire", 
+        },
+        {
+            "stepText":"Eliminez le pédoncule avec un couteau pointu", 
+        },
+        {
+            "stepText":"Placez les fraises dans le bol du mixer avec la menthe selon le goût", 
+        },
+        {
+            "stepText":"Mixer 1mn", 
+        },
+        {
+            "stepText":"Servez dans un grand verre", 
+        }
+    ]
+    
+    },
+    {
+    "title": "Mango Passion",
+    "ingredients": [
+        {
+            "nom":"Smoothie à la Mangue",
+            "quantité":"1 mangue",
+        },
+        {
+            "nom":"Eau",
+            "quantité":"20ml",
+        }, 
+        {
+        "nom":"Glace coco",
+        "quantité":"1 boule"
+    }
+    ],
+    "features":{
+        "cost":"6",
+        "prepareTime":"6mn",
+    },
+    "advice":"utilisez une mangue très mûres. Préferez celles de madagascare, reconnue pour leur aspet juteux et non fibreux",
+    "description":"Super smoothie dynamisant, idéal pour les après midi ensoleillées",
+    "steps":[
+        {
+            "stepText":"Epluchez la mangue", 
+        },
+        {
+            "stepText":"Coupez la chair en petit dès", 
+        },
+        {
+            "stepText":"Placez les morceaux de mangue dans le bol du mixer avec la boule de glace coco", 
+        },
+        {
+            "stepText":"Mixer 1mn", 
+        },
+        {
+            "stepText":"Servez dans un grand verre", 
+        }
+    ]
+    },
+    {
+        "title": "Vert Pomme Concombre",
+        "ingredients": [
+            {
+                "nom":"Concombre",
+                "quantité":"1",
+            },
+            {
+            "nom":"Pommes",
+            "quantité":"4",
+        },
+        {
+            "nom":"Jus de citron vert",
+            "quantité":"2 citrons",
+        },
+            {
+                "nom":"Eau",
+                "quantité":"20ml",
+            }, 
+            {
+            "nom":"Feuille de menthe",
+            "quantité":"8 feuilles fraiches"
+        }
+        ],
+        "features":{
+            "cost":"6",
+            "prepareTime":"6mn",
+        },
+        "advice":"ce smoothie est brule graisse",
+        "description":"Super smoothie dynamisant, idéal pour les après midi ensoleillées",
+        "steps":[
+            {
+                "stepText":"Pelez et coupez en morceaux le concombre.", 
+            },
+            {
+                "stepText":"Lavez, épépinez et coupez la pomme en dès.", 
+            },
+            {
+            "stepText":"Lavez et séchez les feuilles de menthe",
+            },
+            {
+                "stepText":"Mixez le concombre et la pomme dans un blender avec les feuilles de menthe, le jus de citron, l'huile d'olive et le tabasco (facultatif)", 
+            },
+            {
+                "stepText":"Mixer 1mn, Assaisonnez de sel et de poivre puis mélangez bien", 
+            },
+            {
+                "stepText":"Servez bien frais dans un grand verre", 
+            }
+        ]
+    },
+    {
+        "title": "Smoothie rouge sanguine",
+        "ingredients": [
+            {
+                "nom":"Orange sanguine",
+                "quantité":"3",
+            },
+            {
+            "nom":"Framboises",
+            "quantité":"200gr surgelées, ou 150g frais",
+        },
+        {
+            "nom":"miel",
+            "quantité":"1 cuillère à soupe",
+        },
+            {
+                "nom":"Eau",
+                "quantité":"20ml",
+            }, 
+            {
+            "nom":"canelle",
+            "quantité":"1 pincée"
+        }
+        ],
+        "features":{
+            "cost":"8",
+            "prepareTime":"6mn",
+        },
+        "advice":"ce smoothie est riche en vitamine",
+        "description":"Smoothie dynamisant au gout sucrée, ambiance méditerranée",
+        "steps":[
+        {
+            "stepText":"Décongeler les framboises.", 
+        },
+            {
+                "stepText":"Presser les oranges et réserver le jus.", 
+            },
+            {
+                "stepText":"Mixer 1mn le miel, la cannelle, le jus d’orange et les framboises.", 
+            },
+            {
+            "stepText":"Passer l’ensemble au tamis pour enlever les grains de framboises",
+            },
+            {
+                "stepText":"Mixer 1mn, Assaisonnez de sel et de poivre puis mélangez bien", 
+            },
+            {
+                "stepText":"Servez bien frais dans un grand verre", 
+            }
+        ]
+        }
+
+]
+ 

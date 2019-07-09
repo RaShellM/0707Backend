@@ -1,0 +1,15 @@
+var express = require('express');
+var router = express.Router();
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+
+  
+  res.render('index', 
+  { 
+    title: 'Expresso',
+    welcome: 'Bienvenue dans cette nouvelle aventure'
+  });
+});
+
+module.exports = router;
