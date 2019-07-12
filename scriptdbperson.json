@@ -1,0 +1,37 @@
+[
+    {
+      "age": 36,
+      "name": "Sutton Zimmerman",
+      "gender": "male",
+      "email": "suttonzimmerman@zolarity.com",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "age": 31,
+      "name": "Marisa Wade",
+      "gender": "female",
+      "email": "marisawade@zolarity.com",
+      "favoriteFruit": "banana"
+    },
+    {
+      "age": 17,
+      "name": "Hodges Henson",
+      "gender": "male",
+      "email": "hodgeshenson@zolarity.com",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "age": 24,
+      "name": "Turner Todd",
+      "gender": "male",
+      "email": "turnertodd@zolarity.com",
+      "favoriteFruit": "apple"
+    },
+    {
+      "age": 27,
+      "name": "King Watkins",
+      "gender": "male",
+      "email": "kingwatkins@zolarity.com",
+      "favoriteFruit": "apple"
+    }
+  ]
